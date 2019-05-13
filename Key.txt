@@ -1,0 +1,2 @@
+alias : spelling
+password: spelling
